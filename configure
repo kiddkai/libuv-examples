@@ -1,0 +1,4 @@
+#!/bin/sh
+
+git clone https://chromium.googlesource.com/external/gyp.git build/gyp
+git clone https://github.com/libuv/libuv.git deps/libuv
