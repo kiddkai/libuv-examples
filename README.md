@@ -24,3 +24,12 @@ Run the example files
 ```bash
 ./out/Debug/init-main-loop
 ```
+
+## Examples
+
+1. [main-loop](src/main-loop)
+2. [idle-hanler](src/loop-idle)
+
+## License - MIT
+
+See [LICENSE](LICENSE)
