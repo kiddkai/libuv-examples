@@ -11,5 +11,9 @@
             'target_name': 'init-main-loop',
             'sources': ['./src/main-loop/main.c']
         },
+        {
+            'target_name': 'loop-idle',
+            'sources': ['./src/loop-idle/main.c']
+        },
     ],
 }
