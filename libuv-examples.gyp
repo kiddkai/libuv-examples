@@ -15,5 +15,9 @@
             'target_name': 'loop-idle',
             'sources': ['./src/loop-idle/main.c']
         },
+        {
+            'target_name': 'timer',
+            'sources': ['./src/timer/main.c']
+        },
     ],
 }
